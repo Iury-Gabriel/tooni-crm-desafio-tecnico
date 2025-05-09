@@ -12,7 +12,7 @@ Um protótipo funcional de CRM para WhatsApp Web com integração de IA para sug
 
 ## Tecnologias Utilizadas
 
-- Next.js 14 (App Router)
+- Next.js 15
 - TypeScript
 - Tailwind CSS
 - shadcn/ui para componentes
@@ -50,7 +50,7 @@ yarn dev
 pnpm dev
 \`\`\`
 
-5. Acesse o aplicativo em [http://localhost:3000](http://localhost:3000)
+5. Acesse o site em [http://localhost:3000](http://localhost:3000)
 
 ## Estrutura do Projeto
 
